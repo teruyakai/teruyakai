@@ -1,41 +1,36 @@
-# Hi there 👋 I'm Teruyakai
+# Hi, I'm Teruyakai 👋
 
-🎓 Civil Engineering Student | 🔗 Web3 Explorer | 🧠 Lifelong Learner  
-Focused on blockchain, decentralized tech, and building solutions that matter.
-
----
-
-### 🧩 About Me
-- 🔍 Passionate about crypto, tokenomics, and the future of decentralized systems  
-- 📚 Currently studying Civil Engineering and exploring smart contract platforms  
-- 🧱 Learning to build with Cosmos SDK, Solidity, and JavaScript  
-- 🌱 Growing through the ZenChain Builder Program & GitHub projects
+🚀 **Web3 Developer & ZenChain Builder Program Contributor**  
+💡 Passionate about creating innovative, user-centric dApps that empower the ZenChain ecosystem.  
+📈 Dedicated to simplifying blockchain tech through practical tools and educational projects.  
 
 ---
 
-### ⚒️ Tools & Tech I'm Learning
-- Languages: `Solidity`, `JavaScript`, `Python`, `HTML/CSS`  
-- Frameworks: `Hardhat`, `Starport`, `React`, `GitHub Pages`  
-- Web3 Tools: `Metamask`, `CoinGecko API`, `Cosmos SDK`
+### 🌟 My ZenChain Builder Program Projects
+
+- **[ZenChain Gas Tracker](https://github.com/yourusername/zenchain-gas-tracker)**  
+  A sleek React-based DApp providing real-time ZenChain gas fee monitoring, insightful historical charts, and customizable alerts — helping users save on transaction costs and optimize timing.
+
+- **[ZenChain Staking Calculator](https://github.com/yourusername/zenchain-staking-calculator)**  
+  An intuitive tool designed to calculate staking rewards, simulate compounding scenarios, and assist users in maximizing their staking yields on ZenChain.
 
 ---
 
-### 🚀 Projects in Progress
-- `zenchain-explainer-site` — Explaining the paradox: *"Not a chain, yet it binds"*  
-- `crypto-cli-tracker` — Terminal tool to track ARKM, WLD, BTC live  
-- `my-portfolio-site` — Clean personal website (GitHub Pages hosted)
+### 🚀 Why ZenChain?
+
+I believe in the transformative power of ZenChain's fast, scalable, and developer-friendly blockchain to build a decentralized future. Through my projects, I aim to:  
+- Lower barriers for new users by providing transparent and accessible tooling  
+- Foster community engagement via gamification and practical utilities  
+- Support ecosystem growth with tools that improve user experience and decision-making
 
 ---
 
-### 📬 Connect with Me
-- 🌐 [Twitter](#)  
-- 💼 [LinkedIn](#) *(optional)*  
-- 📢 [Telegram](#) *(optional)*
+### 🤝 Let's Connect
+
+- GitHub: [yourusername](https://github.com/yourusername)  
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+- Email: your.email@example.com  
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teruyakai&show_icons=true&theme=tokyonight)
-
-> *"Zen is not a chain, yet it binds — and I’m here to build with it."*
-
-
+*Thank you for visiting! I’m excited to contribute to ZenChain’s growth and innovation — feel free to reach out to collaborate or share ideas!*
